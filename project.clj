@@ -1,4 +1,4 @@
-(defproject bencode "0.1.0"
+(defproject bencode "0.1.1"
   :description "A Clojure library to decode bencoded input"
   :url "https://github.com/GeorgiCodes/bencode"
   :license {:name "Eclipse Public License"
