@@ -1,14 +1,16 @@
 # bencode
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library that allows you to decode bencoded input.
 
 ## Usage
 
-FIXME
+```
+(decode (java.io.FileInputStream. "examples/myfile.torrent"))
+```
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2014 @GeorgiCodes
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
